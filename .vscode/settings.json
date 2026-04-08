@@ -38,4 +38,8 @@
     "chat.implicitContext.suggestedContext": false,
     "chat.sendElementsToChat.enabled": false,
     "chat.useCloudButtonV2": false,
+    "cSpell.ignoreWords": [
+        "kirmit",
+        "lebron"
+    ],
 }
